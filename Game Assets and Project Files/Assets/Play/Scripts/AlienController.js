@@ -9,7 +9,6 @@ function Start () {
 	//call the shoot laser function first after shootdelay seconds, and then according to shoot delay, a random value
 	//between 1.0 and 3.0
 	InvokeRepeating("shootlaser",shootdelay,shootdelay);
-
 }
 
 
