@@ -15,7 +15,7 @@ function Start () {
 //causes the alien to shoot a laser.  
 function shootlaser()
 {
-	Instantiat(alienlaser,transform.position,transform.rotation);
+	Instantiate(alienlaser,transform.position,transform.rotation);
 }
 
 function Update () {
