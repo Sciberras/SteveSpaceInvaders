@@ -1,0 +1,2 @@
+yield WaitForSeconds();		//Code stops for a certain time
+Application.LoadLevel();	//Loads chosen scene (Put in Built)

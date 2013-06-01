@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Play\Scripts\GameController.js">
+    <Files>
+      <File FileName="Assets\Play\Scripts\GameController.js" Line="8" Column="36" />
+      <File FileName="Assets\Play\Scripts\BossController.js" Line="28" Column="31" />
+      <File FileName="Assets\Play\Scripts\BgController.js" Line="27" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
