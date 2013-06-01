@@ -18,27 +18,6 @@ function moveDown()
 }
 
 
-function createAliens(rows:int,cols:int)
-{
-	//Don't Create Swarm after lvl5
-	if(GameController.levelsPlayed<6)
-	{
-		//for all the rows of aliens
-		for(var row=0;row<rows;row++)
-		{
-			//creates the aliens as required
-			for(var counter=0;counter<cols;counter++)
-			{
-				var tempAlien:Rigidbody;
-				//create instances of the alien in these positions
-				tempAlien = Instantiate(alien,Vector3(counter*2,transform.position.y-row,1),Quaternion.identity);
-				//the parent of the alien is the swarm
-				tempAlien.transform.parent = this.transform;
-			}
-		}
-	}
-}
-
 
 
 function Start () {
