@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Play\Scripts\SwarmController.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Play\Scripts\AlienController.js">
     <Files>
-      <File FileName="Assets\Play\Scripts\SwarmController.js" Line="41" Column="2" />
+      <File FileName="Assets\Play\Scripts\AlienController.js" Line="18" Column="12" />
+      <File FileName="Assets\Play\Scripts\SwarmController.js" Line="20" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
