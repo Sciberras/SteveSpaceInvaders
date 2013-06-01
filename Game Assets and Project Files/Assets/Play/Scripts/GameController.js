@@ -102,7 +102,7 @@ while(true)
 }
 
 //HUD DISPLAY
-/*function OnGUI() 
+function OnGUI() 
 {
 	    GUI.Label(Rect(10,10,100,50),"Health: "+playerHealth);
 		GUI.Label(Rect(10,30,100,50),"Score: "+score);
